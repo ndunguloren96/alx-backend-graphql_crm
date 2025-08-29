@@ -3,6 +3,7 @@ from graphene_django import DjangoObjectType
 from core import models as core_models
 from django.db import transaction
 from datetime import datetime
+from crm.models import Product
 
 class CustomerType(DjangoObjectType):
     class Meta:
