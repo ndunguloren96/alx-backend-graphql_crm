@@ -1,5 +1,6 @@
 aniso8601==7.0.0
 asgiref==3.9.1
+celery==5.4.0
 certifi==2025.8.3
 charset-normalizer==3.4.3
 Django==5.2.5
@@ -15,6 +16,7 @@ graphql-ws==0.4.4
 idna==3.10
 promise==2.3
 PyJWT==2.10.1
+redis==5.0.1
 requests==2.32.5
 Rx==1.6.3
 singledispatch==4.1.2
